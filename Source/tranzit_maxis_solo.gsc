@@ -49,4 +49,3 @@ custom_maxis_sidequest_b()
 	player[ 0 ] setclientfield( "screecher_maxis_lights", 1 );
 	level thread maxis_sidequest_complete_check( "B_complete" );
 }
-
